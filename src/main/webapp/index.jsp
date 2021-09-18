@@ -24,7 +24,7 @@
         style="padding-right: 10vw"
 >
     <div class="container-fluid">
-        <a class="navbar-brand" href="../paginas/inicio.html">
+        <a class="navbar-brand" href="./index.jsp">
             <img
                     src="./assets/travel.png"
                     alt=""
@@ -34,8 +34,8 @@
             />
             Vuela Lejos
         </a>
-        <a class="navbar-brand" href="../paginas/inicio.html">Inicio</a>
-        <a class="navbar-brand" href="../paginas/destinos.html">Destinos</a>
+        <a class="navbar-brand" href="./index.jsp">Inicio</a>
+        <a class="navbar-brand" href="./destinos.jsp">Destinos</a>
         <a class="navbar-brand" href="../paginas/hoteles.html">Hoteles</a>
         <a class="navbar-brand" href="../paginas/faq.html">Centro de ayuda</a>
         <a class="navbar-brand" href="../paginas/contacto.html">Contacto</a>
