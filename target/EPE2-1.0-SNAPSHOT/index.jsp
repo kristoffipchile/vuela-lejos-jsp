@@ -34,11 +34,11 @@
             />
             Vuela Lejos
         </a>
-        <a class="navbar-brand" href="./index.jsp">Inicio</a>
-        <a class="navbar-brand" href="./destinos.jsp">Destinos</a>
-        <a class="navbar-brand" href="../paginas/hoteles.html">Hoteles</a>
-        <a class="navbar-brand" href="../paginas/faq.html">Centro de ayuda</a>
-        <a class="navbar-brand" href="../paginas/contacto.html">Contacto</a>
+        <a class="navbar-brand" href="index.jsp">Inicio</a>
+        <a class="navbar-brand" href="destinos.jsp">Destinos</a>
+        <a class="navbar-brand" href="hoteles.jsp">Hoteles</a>
+        <a class="navbar-brand" href="faq.jsp">Centro de ayuda</a>
+        <a class="navbar-brand" href="contacto.jsp">Contacto</a>
     </div>
 </nav>
 <br />
